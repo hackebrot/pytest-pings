@@ -9,7 +9,7 @@ def read(*args):
 
 setuptools.setup(
     name="pytest-pings",
-    description="Plugin for working with Firefox Telemetry. 📈",
+    description="🦊 The pytest plugin for Firefox Telemetry 📊",
     version="0.1.0",
     author="Benjamin Forehand Jr, Raphael Pierzina",
     maintainer="Benjamin Forehand Jr, Raphael Pierzina",
