@@ -16,6 +16,7 @@ setuptools.setup(
     license="Mozilla Public License 2.0",
     long_description=read("README.md"),
     long_description_content_type="text/markdown",
+    url="https://github.com/hackebrot/pytest-pings",
     project_urls={
         "Repository": "https://github.com/hackebrot/pytest-pings",
         "Issues": "https://github.com/hackebrot/pytest-pings/issues",
